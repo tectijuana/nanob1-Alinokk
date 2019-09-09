@@ -1,28 +1,6 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+## Definición de problemas de computo
+En [ciencia computacional teórica](https://es.wikipedia.org/wiki/Ciencia_computacional_te%C3%B3rica "Ciencia computacional teórica"), un **problema abstracto** o **problema computacional** es una [relación](https://es.wikipedia.org/wiki/Relaci%C3%B3n_binaria "Relación binaria") entre un conjunto de _instancias_ y un conjunto de _soluciones_. Un problema abstracto permite establecer formalmente la relación deseada entre la entrada de un algoritmo y su salida. Una **solución algorítmica** a un problema abstracto consiste de un algoritmo que por cada instancia del problema calcula al menos una solución correspondiente –en caso de haberla– o expide un certificado de que no existe solución alguna. Un problema abstracto se convierte en un **problema concreto** cuando las instancias y soluciones están codificadas en forma de [lenguajes formales](https://es.wikipedia.org/wiki/Lenguaje_formal "Lenguaje formal").
+## Algoritmo cotidiano
+Un algoritmo es un conjunto reescrito de instrucciones o reglas bien definidas, ordenadas y finitas que permite realizar una actividad mediante pasos sucesivos que no generen dudas a quien lo ejecute. Dados un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución. Los algoritmos son objeto de estudio de la algoritmia.
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-
-Plantilla generica de todo repositorio.
-
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
-
-----
-
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
-
-----
-
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
-
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
-
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
-
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIB7Rio_cD-FSAVrXBEfF9CJhoVZPrD2ot-pdiFIOhNblMc-fBsA)
